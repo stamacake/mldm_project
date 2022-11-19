@@ -158,10 +158,6 @@ cython_debug/
 
 
 # DATA
-*.csv
 *.zip
-Train
-Test
-Data
 kaggle
 artifacts
