@@ -17,4 +17,4 @@ Future report will contain(**to be completed**)/Done work at the time of 19.11.2
 - trained some models
 
 
-Data to local use in [data folder](../blob/main/data)
+Data to local use in [data folder](../main/data)
