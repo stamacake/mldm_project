@@ -4,7 +4,7 @@
 all artifacts are stored [here](https://drive.google.com/drive/folders/1fsJf54fGeY7oi1_epQI9Uz3_Srl7cCrx?usp=sharing). To run project extract all files in repo root.
 
 Team:
-- Undalov Nikolay: https://github.com/altakhirov
+- Undalov Nikolay: https://github.com/koly6868
 - Samarkhanov Ratmir: https://github.com/stamacake
 - Takhirov Alisher: https://github.com/altakhirov
 
