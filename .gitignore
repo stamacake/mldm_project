@@ -159,5 +159,6 @@ cython_debug/
 
 # DATA
 *.zip
+*.gz
 kaggle
-artifacts
+./artifacts
